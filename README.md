@@ -1,5 +1,8 @@
 <h1>E-Document</h1>
-![Edocument](https://github.com/user-attachments/assets/b7f0ce1c-85eb-4d50-9766-a62f041c97ea)
+
+
+
+
 
 <p>
 The website developed for eDocument Culasi Civil Registry aims to simplify and expedite the process of requesting personal documents for the public. Its primary objective is to enhance user experience by streamlining the request process and reducing the number of steps required.
@@ -15,16 +18,21 @@ The website developed for eDocument Culasi Civil Registry aims to simplify and e
 
 
 <h2>Admin Login</h2>
-![admin error view](https://github.com/user-attachments/assets/d1a98714-094b-4e61-9efe-f32d303b062a)
+
 <p>
 This section is specifically designed for administrators to securely log in by entering their credentials.
+</p>
+<h2>Admin Monitoring</h2>
+
+<p>
+Admins can monitor client requests by reviewing the accounts created by each client. This allows for efficient tracking and management of document requests. Thwe admin also can see the requested forms and the overall monthly reports. The admin also can monitor the accounts of the registered clients.
 </p>
 
 
 
 
 <h2>Client Log In</h2>
-![Employee log in](https://github.com/user-attachments/assets/22b07ad8-1c7e-4021-9425-b7f904981c74)
+
 
 <p>
 This section is specifically designed for clients to securely log in by entering their credentials.
@@ -32,11 +40,19 @@ This section is specifically designed for clients to securely log in by entering
 
 
 <h2>Client Account Registration</h2>
-![registration of request for documents](https://github.com/user-attachments/assets/e0b07dd4-3677-4e9a-b6a3-02508b9bd08b)
 
 <p>
 This section of the page is designed for clients to register their accounts and set up their credentials.
 </p>
+
+
+<h2>Document Request form</h2>
+
+<p>
+Once the client has logged in, they can proceed to request the documents they need. This streamlined process ensures a smooth and efficient experience for obtaining their personal documents.
+</p>
+
+
 
 
 
